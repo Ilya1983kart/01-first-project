@@ -1,7 +1,7 @@
 
 ## Available Scripts
 
-
+Всем привет!
 
 ### `npm start`
 
