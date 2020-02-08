@@ -11,7 +11,7 @@ const Profile = () => {
                 <img src="https://www.tokkoro.com/picsup/400212-animal-images-background.jpg" alt="img"/>
             </div>
             <div className={c.item}>
-                ava + description
+                ava + description Привет!
             </div>
             <div>
                 <Myposts/>
