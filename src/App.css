@@ -9,9 +9,18 @@
     grid-template-areas:
     'h h'
     'n c';
-
+}
+.app-wrapper img{
+    width: 100%;
+    height: 60vh;
 
 }
+
+.appWrapperContent{
+    grid-area: c;
+    background-color:darkgrey;
+}
+
 /*
 .header{
 grid-area: h;
